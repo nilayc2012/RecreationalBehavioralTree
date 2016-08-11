@@ -1,3 +1,0 @@
-15.88 I move_to startloc33
-+pizzashopowner AT startloc33 True;
-+

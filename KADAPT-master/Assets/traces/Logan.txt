@@ -1,9 +1,0 @@
-15.64 Jake move_to startloc5
-+Jake AT startloc5 True;
-+
-15.73 I move_to startloc2
-+Logan AT startloc2 True;
-+
-20.19 PoliceOfficer2 go_to_corner north
-+PoliceOfficer2 AT north True;
-+

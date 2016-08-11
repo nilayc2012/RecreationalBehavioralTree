@@ -1,3 +1,0 @@
-15.76 I move_to startloc12
-+Adam AT startloc12 True;
-+

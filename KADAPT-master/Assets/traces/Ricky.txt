@@ -1,6 +1,0 @@
-15.71 I move_to startloc11
-+Ricky AT startloc11 True;
-+
-24.19 Mickey walks_to clothesshop2
-+Mickey AT clothesshop2 True;
-+

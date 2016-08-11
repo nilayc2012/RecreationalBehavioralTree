@@ -1,3 +1,0 @@
-15.64 I move_to startloc5
-+Jake AT startloc5 True;
-+

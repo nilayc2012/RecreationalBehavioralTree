@@ -1,9 +1,0 @@
-15.74 I move_to startloc10
-+Denis AT startloc10 True;
-+
-16.68 PoliceOfficer1 move_to startloc68
-+PoliceOfficer1 AT startloc68 True;
-+
-34.84 I walks_to medicalshp2
-+Denis AT medicalshp2 True;
-+

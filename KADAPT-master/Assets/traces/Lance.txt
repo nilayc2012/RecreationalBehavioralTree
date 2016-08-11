@@ -1,3 +1,0 @@
-15.62 I move_to startloc3
-+Lance AT startloc3 True;
-+
