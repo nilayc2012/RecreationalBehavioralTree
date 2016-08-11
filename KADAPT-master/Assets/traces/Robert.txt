@@ -1,0 +1,18 @@
+36.09 Ted walks_to bank
++Ted AT bank True;
++
+66.56 I walks_to spa
++Robert AT spa True;
++
+86.51 I greet Santos
++Robert AT spa True;
++Santos AT cinema True;
+88.84 Santos greet_smile me
++Santos AT cinema True;
++Robert AT spa True;
+93.38 Lance walks_to barbershop
++Lance AT barbershop True;
++
+94.24 Santos goodbye me
++Santos AT cinema True;
++Robert AT spa True;

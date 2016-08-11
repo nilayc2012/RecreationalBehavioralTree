@@ -1,12 +1,18 @@
-44.43 PoliceOfficer2 go_to_corner south
-+PoliceOfficer2 AT south True;
+45.48 I walks_to pizzashop
++Denis AT pizzashop True;
 +
-46.50 Jake walks_to bookshop1
-+Jake AT bookshop1 True;
+66.56 Robert walks_to spa
++Robert AT spa True;
 +
-63.88 PoliceOfficer7 go_to_corner west
-+PoliceOfficer7 AT west True;
+72.35 Lance goodbye Joseph
 +
-69.25 I meets Michael
++Joseph AT (9.3, 0.0, 35.9) True;
+80.69 I walks_to popcornandsoda
++Denis AT popcornandsoda True;
 +
-+Michael AT burgershop True;
+87.54 PoliceOfficer4 go_to_corner east
++PoliceOfficer4 AT east True;
++
+93.83 I walks_to postoffice
++Denis AT postoffice True;
++

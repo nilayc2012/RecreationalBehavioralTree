@@ -134,6 +134,7 @@ public static class HelperFunctions{
 
 			SmartObject[] smtObjs = GameObject.FindObjectsOfType (objType) as SmartObject[];
 			foreach (SmartObject obj in smtObjs){
+				Debug.Log(obj);
 				Constants.smartObjToGameObjMap.Add (obj.name, obj.gameObject.name);
 			}
 		}

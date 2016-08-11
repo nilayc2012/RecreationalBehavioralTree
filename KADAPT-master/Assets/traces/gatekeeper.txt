@@ -1,9 +1,0 @@
-14.18 PoliceOfficer2 go_to_corner north
-+PoliceOfficer2 AT north True;
-+
-34.96 PoliceOfficer3 go_to_corner north
-+PoliceOfficer3 AT north True;
-+
-41.72 PoliceOfficer5 go_to_corner north
-+PoliceOfficer5 AT north True;
-+

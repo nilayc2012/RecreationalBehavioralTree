@@ -1,9 +1,12 @@
-49.75 POfficerSP go_to_corner east
+53.84 POfficerSP go_to_corner east
 +POfficerSP AT east True;
 +
-50.54 I go_to_corner east
-+PoliceOfficer6 AT east True;
+88.84 Santos greet_smile Robert
++Santos AT cinema True;
++Robert AT spa True;
+93.38 Lance walks_to barbershop
++Lance AT barbershop True;
 +
-62.41 Mickey walks_to barbershop
-+Mickey AT barbershop True;
-+
+94.24 Santos goodbye Robert
++Santos AT cinema True;
++Robert AT spa True;

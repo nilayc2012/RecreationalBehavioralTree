@@ -360,22 +360,22 @@ public class Behavior : MonoBehaviour {
 
         foreach(GameObject owner in owners)
         {
-            shopOwnBehaviorList.Add(new Sequence(owner.GetComponent<BehaviorMecanim>().Node_Orient(owner.GetComponent<OwnerData>().faceloc.transform.rotation), new DecoratorLoop( owner.GetComponent<BehaviorMecanim>().ST_TurnToFace(owner.GetComponent<OwnerData>().faceloc.transform.position))));
+            shopOwnBehaviorList.Add(new LookAt(owner.GetComponent<SmartCharacter>(), owner.GetComponent<OwnerData>().faceloc.GetComponent<SmartCorner>()).PBT());
         }
 
         foreach (GameObject owner in owners1)
         {
-            shopOwnBehaviorList.Add(new Sequence(owner.GetComponent<BehaviorMecanim>().Node_Orient(owner.GetComponent<OwnerData>().faceloc.transform.rotation), new DecoratorLoop(owner.GetComponent<BehaviorMecanim>().ST_TurnToFace(owner.GetComponent<OwnerData>().faceloc.transform.position))));
+            shopOwnBehaviorList.Add(new LookAt(owner.GetComponent<SmartCharacter>(), owner.GetComponent<OwnerData>().faceloc.GetComponent<SmartCorner>()).PBT());
         }
 
         foreach (GameObject owner in owners2)
         {
-            shopOwnBehaviorList.Add(new Sequence(owner.GetComponent<BehaviorMecanim>().Node_Orient(owner.GetComponent<OwnerData>().faceloc.transform.rotation), new DecoratorLoop(owner.GetComponent<BehaviorMecanim>().ST_TurnToFace(owner.GetComponent<OwnerData>().faceloc.transform.position))));
+            shopOwnBehaviorList.Add(new LookAt(owner.GetComponent<SmartCharacter>(), owner.GetComponent<OwnerData>().faceloc.GetComponent<SmartCorner>()).PBT());
         }
 
         foreach (GameObject owner in owners3)
         {
-            shopOwnBehaviorList.Add(new Sequence(owner.GetComponent<BehaviorMecanim>().Node_Orient(owner.GetComponent<OwnerData>().faceloc.transform.rotation), new DecoratorLoop(owner.GetComponent<BehaviorMecanim>().ST_TurnToFace(owner.GetComponent<OwnerData>().faceloc.transform.position))));
+            shopOwnBehaviorList.Add(new LookAt(owner.GetComponent<SmartCharacter>(), owner.GetComponent<OwnerData>().faceloc.GetComponent<SmartCorner>()).PBT());
         }
 
         Node[] shopOwnBehaviors = shopOwnBehaviorList.ToArray();
@@ -387,8 +387,8 @@ public class Behavior : MonoBehaviour {
     {
         GameObject[] gkeepers = GameObject.FindGameObjectsWithTag("gatekeeper");
 
-        return new DecoratorLoop(new SequenceParallel(gkeepers[0].GetComponent<BehaviorMecanim>().Node_OrientTowards(Val.V(() => gkeepers[1].transform.position)),
-            gkeepers[1].GetComponent<BehaviorMecanim>().Node_OrientTowards(Val.V(() => gkeepers[0].transform.position))));
+        return new DecoratorLoop(new SequenceParallel(new LookAt(gkeepers[0].GetComponent<SmartCharacter>(), gkeepers[0].GetComponent<GateKeeperData>().faceloc.GetComponent<SmartCorner>()).PBT(),
+            new LookAt(gkeepers[1].GetComponent<SmartCharacter>(), gkeepers[1].GetComponent<GateKeeperData>().faceloc.GetComponent<SmartCorner>()).PBT()));
         
     }
 

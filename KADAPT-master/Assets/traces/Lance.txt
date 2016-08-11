@@ -1,15 +1,54 @@
-24.20 Mickey walks_to PoliceStation
-+Mickey AT PoliceStation True;
+35.07 Joseph meets me
++Joseph AT (9.3, 0.0, 35.9) True;
 +
-42.12 Mickey walks_to icecreamshop
-+Mickey AT icecreamshop True;
+37.26 Joseph shakehands me
++Joseph AT (9.3, 0.0, 35.9) True;
 +
-44.40 Michael walks_to burgershop
-+Michael AT burgershop True;
+37.31 I shakehands Joseph
 +
-49.20 I walks_to hotdogshop
-+Lance AT hotdogshop True;
++Joseph AT (9.3, 0.0, 35.9) True;
+44.52 Joseph insult me
++Joseph AT (9.3, 0.0, 35.9) True;
 +
-62.41 Mickey walks_to barbershop
-+Mickey AT barbershop True;
+46.90 I angry Joseph
++
++Joseph AT (9.3, 0.0, 35.9) True;
+49.47 Joseph good me
++Joseph AT (9.3, 0.0, 35.9) True;
++
+52.13 I smile Joseph
++
++Joseph AT (9.3, 0.0, 35.9) True;
+54.72 Joseph compliment me
++Joseph AT (9.3, 0.0, 35.9) True;
++
+57.37 I shy Joseph
++
++Joseph AT (9.3, 0.0, 35.9) True;
+60.20 Joseph insult me
++Joseph AT (9.3, 0.0, 35.9) True;
++
+62.60 I angry Joseph
++
++Joseph AT (9.3, 0.0, 35.9) True;
+65.11 Joseph bad me
++Joseph AT (9.3, 0.0, 35.9) True;
++
+67.69 I sad Joseph
++
++Joseph AT (9.3, 0.0, 35.9) True;
+70.06 Joseph bye me
++Joseph AT (9.3, 0.0, 35.9) True;
++
+72.35 I goodbye Joseph
++
++Joseph AT (9.3, 0.0, 35.9) True;
+86.51 Robert greet Santos
++Robert AT spa True;
++Santos AT cinema True;
+88.84 Santos greet_smile Robert
++Santos AT cinema True;
++Robert AT spa True;
+93.38 I walks_to barbershop
++Lance AT barbershop True;
 +

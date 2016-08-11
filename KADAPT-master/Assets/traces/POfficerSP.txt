@@ -1,15 +1,36 @@
-23.68 PoliceOfficer10 go_to_corner north
+27.69 PoliceOfficer10 go_to_corner north
 +PoliceOfficer10 AT north True;
 +
-24.24 I go_to_corner north
+28.48 I go_to_corner north
 +POfficerSP AT north True;
 +
-49.75 I go_to_corner east
+35.07 Joseph meets Lance
++Joseph AT (9.3, 0.0, 35.9) True;
++
+37.26 Joseph shakehands Lance
++Joseph AT (9.3, 0.0, 35.9) True;
++
+37.31 Lance shakehands Joseph
++
++Joseph AT (9.3, 0.0, 35.9) True;
+44.52 Joseph insult Lance
++Joseph AT (9.3, 0.0, 35.9) True;
++
+53.84 I go_to_corner east
 +POfficerSP AT east True;
 +
-50.54 PoliceOfficer6 go_to_corner east
-+PoliceOfficer6 AT east True;
+62.60 Lance angry Joseph
 +
-63.23 Logan wicked_smile Adam
++Joseph AT (9.3, 0.0, 35.9) True;
+76.87 PoliceOfficer2 go_to_corner north
++PoliceOfficer2 AT north True;
 +
-+Adam AT (-12.2, 0.0, 27.2) True;
+79.28 I go_to_corner north
++POfficerSP AT north True;
++
+83.95 Joseph walks_to kitchenappliancesshop
++Joseph AT kitchenappliancesshop True;
++
+93.83 Denis walks_to postoffice
++Denis AT postoffice True;
++

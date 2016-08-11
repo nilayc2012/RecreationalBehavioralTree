@@ -1,24 +1,51 @@
-27.70 Chris walks_to delistore
-+Chris AT delistore True;
-+
-29.59 Ted walks_to hardwareshop
-+Ted AT hardwareshop True;
-+
-34.96 I go_to_corner north
+38.99 I go_to_corner north
 +PoliceOfficer3 AT north True;
 +
-34.98 PoliceOfficer1 go_to_corner north
-+PoliceOfficer1 AT north True;
+44.52 Joseph insult Lance
++Joseph AT (9.3, 0.0, 35.9) True;
 +
-42.09 Mark walks_to cinema
-+Mark AT cinema True;
+46.84 Santos walks_to cinema
++Santos AT cinema True;
 +
-49.75 POfficerSP go_to_corner east
+49.47 Joseph good Lance
++Joseph AT (9.3, 0.0, 35.9) True;
++
+52.13 Lance smile Joseph
++
++Joseph AT (9.3, 0.0, 35.9) True;
+53.84 POfficerSP go_to_corner east
 +POfficerSP AT east True;
 +
-50.54 PoliceOfficer6 go_to_corner east
-+PoliceOfficer6 AT east True;
+54.72 Joseph compliment Lance
++Joseph AT (9.3, 0.0, 35.9) True;
 +
-60.34 I go_to_corner east
+64.17 I go_to_corner east
 +PoliceOfficer3 AT east True;
 +
+67.69 Lance sad Joseph
++
++Joseph AT (9.3, 0.0, 35.9) True;
+70.06 Joseph bye Lance
++Joseph AT (9.3, 0.0, 35.9) True;
++
+72.35 Lance goodbye Joseph
++
++Joseph AT (9.3, 0.0, 35.9) True;
+79.28 POfficerSP go_to_corner north
++POfficerSP AT north True;
++
+80.12 Mark meets Peter
++Mark AT (-31.8, 0.0, -6.1) True;
++Peter AT delistore True;
+84.82 Mark greet Peter
++Mark AT (-31.8, 0.0, -6.1) True;
++Peter AT delistore True;
+87.13 Peter greet_smile Mark
++Peter AT delistore True;
++Mark AT (-31.8, 0.0, -6.1) True;
+89.62 I go_to_corner north
++PoliceOfficer3 AT north True;
++
+92.87 Peter wicked_smile Mark
++Peter AT delistore True;
++Mark AT (-31.8, 0.0, -6.1) True;

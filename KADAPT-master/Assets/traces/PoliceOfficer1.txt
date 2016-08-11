@@ -1,21 +1,24 @@
-23.68 I0 go_to_corner north
+27.69 I0 go_to_corner north
 +PoliceOfficer10 AT north True;
 +
-29.59 Ted walks_to hardwareshop
-+Ted AT hardwareshop True;
-+
-34.96 PoliceOfficer3 go_to_corner north
+38.99 PoliceOfficer3 go_to_corner north
 +PoliceOfficer3 AT north True;
 +
-34.98 I go_to_corner north
-+PoliceOfficer1 AT north True;
+51.57 Mark walks_to petshop
++Mark AT petshop True;
 +
-53.41 I0 go_to_corner south
+56.44 I0 go_to_corner south
 +PoliceOfficer10 AT south True;
 +
-62.00 Ricky greet Richard
-+Ricky AT (-23.8, 0.0, 27.0) True;
-+Richard AT bakeryshop True;
-70.78 I go_to_corner south
+69.23 I go_to_corner south
 +PoliceOfficer1 AT south True;
 +
+82.96 Jake walks_to petshop
++Jake AT petshop True;
++
+85.69 I0 go_to_corner north
++PoliceOfficer10 AT north True;
++
+92.87 Peter wicked_smile Mark
++Peter AT delistore True;
++Mark AT (-31.8, 0.0, -6.1) True;

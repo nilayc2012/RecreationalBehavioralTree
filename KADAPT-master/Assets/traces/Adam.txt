@@ -1,24 +1,24 @@
-45.40 I meets Logan
-+Adam AT (-12.2, 0.0, 27.2) True;
+39.34 I walks_to PoliceStation
++Adam AT PoliceStation True;
 +
-47.72 I shakehands Logan
-+Adam AT (-12.2, 0.0, 27.2) True;
-+
-47.77 Logan shakehands me
-+
-+Adam AT (-12.2, 0.0, 27.2) True;
-50.12 I greet Logan
-+Adam AT (-12.2, 0.0, 27.2) True;
-+
-52.47 Logan greet_smile me
-+
-+Adam AT (-12.2, 0.0, 27.2) True;
-55.14 I insult Logan
-+Adam AT (-12.2, 0.0, 27.2) True;
-+
-60.36 I wicked Logan
-+Adam AT (-12.2, 0.0, 27.2) True;
-+
-63.23 Logan wicked_smile me
-+
-+Adam AT (-12.2, 0.0, 27.2) True;
+74.87 I meets Richard
++Adam AT (-23.8, 0.0, 27.0) True;
++Richard AT medicalshp2 True;
+81.64 Richard greet_smile me
++Richard AT medicalshp2 True;
++Adam AT (-23.8, 0.0, 27.0) True;
+84.02 I compliment Richard
++Adam AT (-23.8, 0.0, 27.0) True;
++Richard AT medicalshp2 True;
+89.19 I compliment Richard
++Adam AT (-23.8, 0.0, 27.0) True;
++Richard AT medicalshp2 True;
+91.84 Richard shy me
++Richard AT medicalshp2 True;
++Adam AT (-23.8, 0.0, 27.0) True;
+95.25 Michael shakehands Chris
++Michael AT (5.8, 0.0, 26.2) True;
++Chris AT bakeryshop True;
+95.30 Chris shakehands Michael
++Chris AT bakeryshop True;
++Michael AT (5.8, 0.0, 26.2) True;

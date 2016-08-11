@@ -1,6 +1,24 @@
-44.40 I walks_to burgershop
-+Michael AT burgershop True;
+26.46 PoliceOfficer8 go_to_corner east
++PoliceOfficer8 AT east True;
 +
-69.25 Denis meets me
+31.65 PoliceOfficer4 go_to_corner east
++PoliceOfficer4 AT east True;
 +
-+Michael AT burgershop True;
+53.84 POfficerSP go_to_corner east
++POfficerSP AT east True;
++
+81.64 Richard greet_smile Adam
++Richard AT medicalshp2 True;
++Adam AT (-23.8, 0.0, 27.0) True;
+84.02 Adam compliment Richard
++Adam AT (-23.8, 0.0, 27.0) True;
++Richard AT medicalshp2 True;
+92.29 Ricky walks_to bookshop1
++Ricky AT bookshop1 True;
++
+95.25 I shakehands Chris
++Michael AT (5.8, 0.0, 26.2) True;
++Chris AT bakeryshop True;
+95.30 Chris shakehands me
++Chris AT bakeryshop True;
++Michael AT (5.8, 0.0, 26.2) True;

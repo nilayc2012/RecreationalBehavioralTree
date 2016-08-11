@@ -1,18 +1,24 @@
-14.18 PoliceOfficer2 go_to_corner north
+17.62 PoliceOfficer2 go_to_corner north
 +PoliceOfficer2 AT north True;
 +
-57.23 Ricky meets me
-+Ricky AT (-23.8, 0.0, 27.0) True;
-+Richard AT bakeryshop True;
-59.53 Ricky shakehands me
-+Ricky AT (-23.8, 0.0, 27.0) True;
-+Richard AT bakeryshop True;
-59.58 I shakehands Ricky
-+Richard AT bakeryshop True;
-+Ricky AT (-23.8, 0.0, 27.0) True;
-62.00 Ricky greet me
-+Ricky AT (-23.8, 0.0, 27.0) True;
-+Richard AT bakeryshop True;
-64.26 I greet_smile Ricky
-+Richard AT bakeryshop True;
-+Ricky AT (-23.8, 0.0, 27.0) True;
+68.12 PoliceOfficer7 go_to_corner west
++PoliceOfficer7 AT west True;
++
+74.87 Adam meets me
++Adam AT (-23.8, 0.0, 27.0) True;
++Richard AT medicalshp2 True;
+81.64 I greet_smile Adam
++Richard AT medicalshp2 True;
++Adam AT (-23.8, 0.0, 27.0) True;
+84.02 Adam compliment me
++Adam AT (-23.8, 0.0, 27.0) True;
++Richard AT medicalshp2 True;
+89.19 Adam compliment me
++Adam AT (-23.8, 0.0, 27.0) True;
++Richard AT medicalshp2 True;
+91.84 I shy Adam
++Richard AT medicalshp2 True;
++Adam AT (-23.8, 0.0, 27.0) True;
+94.84 Ted walks_to burgershop
++Ted AT burgershop True;
++

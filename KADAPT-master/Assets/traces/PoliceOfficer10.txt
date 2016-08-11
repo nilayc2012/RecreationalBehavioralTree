@@ -1,9 +1,30 @@
-23.68 I go_to_corner north
+27.69 I go_to_corner north
 +PoliceOfficer10 AT north True;
 +
-44.43 PoliceOfficer2 go_to_corner south
+36.09 Ted walks_to bank
++Ted AT bank True;
++
+47.53 PoliceOfficer2 go_to_corner south
 +PoliceOfficer2 AT south True;
 +
-53.41 I go_to_corner south
+55.29 Chris walks_to bakeryshop
++Chris AT bakeryshop True;
++
+56.44 I go_to_corner south
 +PoliceOfficer10 AT south True;
 +
+76.87 PoliceOfficer2 go_to_corner north
++PoliceOfficer2 AT north True;
++
+79.28 POfficerSP go_to_corner north
++POfficerSP AT north True;
++
+84.82 Mark greet Peter
++Mark AT (-31.8, 0.0, -6.1) True;
++Peter AT delistore True;
+85.69 I go_to_corner north
++PoliceOfficer10 AT north True;
++
+87.13 Peter greet_smile Mark
++Peter AT delistore True;
++Mark AT (-31.8, 0.0, -6.1) True;

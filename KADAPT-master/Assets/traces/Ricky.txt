@@ -1,24 +1,18 @@
-42.12 Mickey walks_to icecreamshop
-+Mickey AT icecreamshop True;
+41.71 Peter steal_idol PricelessIdol
++Peter AT PricelessIdol True;
 +
-44.40 Michael walks_to burgershop
-+Michael AT burgershop True;
+46.90 Lance angry Joseph
 +
-57.23 I meets Richard
-+Ricky AT (-23.8, 0.0, 27.0) True;
-+Richard AT bakeryshop True;
-59.53 I shakehands Richard
-+Ricky AT (-23.8, 0.0, 27.0) True;
-+Richard AT bakeryshop True;
-59.58 Richard shakehands me
-+Richard AT bakeryshop True;
-+Ricky AT (-23.8, 0.0, 27.0) True;
-62.00 I greet Richard
-+Ricky AT (-23.8, 0.0, 27.0) True;
-+Richard AT bakeryshop True;
-64.26 Richard greet_smile me
-+Richard AT bakeryshop True;
-+Ricky AT (-23.8, 0.0, 27.0) True;
-70.78 PoliceOfficer1 go_to_corner south
-+PoliceOfficer1 AT south True;
++Joseph AT (9.3, 0.0, 35.9) True;
+84.02 Adam compliment Richard
++Adam AT (-23.8, 0.0, 27.0) True;
++Richard AT medicalshp2 True;
+92.29 I walks_to bookshop1
++Ricky AT bookshop1 True;
 +
+95.25 Michael shakehands Chris
++Michael AT (5.8, 0.0, 26.2) True;
++Chris AT bakeryshop True;
+95.30 Chris shakehands Michael
++Chris AT bakeryshop True;
++Michael AT (5.8, 0.0, 26.2) True;

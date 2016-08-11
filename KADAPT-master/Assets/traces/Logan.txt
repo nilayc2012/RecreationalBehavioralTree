@@ -1,27 +1,24 @@
-27.70 Chris walks_to delistore
-+Chris AT delistore True;
+45.45 I walks_to barbershop
++Logan AT barbershop True;
 +
-45.40 Adam meets me
-+Adam AT (-12.2, 0.0, 27.2) True;
+54.19 PoliceOfficer8 go_to_corner west
++PoliceOfficer8 AT west True;
 +
-47.72 Adam shakehands me
-+Adam AT (-12.2, 0.0, 27.2) True;
+58.82 PoliceOfficer4 go_to_corner west
++PoliceOfficer4 AT west True;
 +
-47.77 I shakehands Adam
+68.12 PoliceOfficer7 go_to_corner west
++PoliceOfficer7 AT west True;
 +
-+Adam AT (-12.2, 0.0, 27.2) True;
-50.12 Adam greet me
-+Adam AT (-12.2, 0.0, 27.2) True;
+83.38 I walks_to PoliceStation
++Logan AT PoliceStation True;
 +
-52.47 I greet_smile Adam
-+
-+Adam AT (-12.2, 0.0, 27.2) True;
-55.14 Adam insult me
-+Adam AT (-12.2, 0.0, 27.2) True;
-+
-60.36 Adam wicked me
-+Adam AT (-12.2, 0.0, 27.2) True;
-+
-63.23 I wicked_smile Adam
-+
-+Adam AT (-12.2, 0.0, 27.2) True;
+86.51 Robert greet Santos
++Robert AT spa True;
++Santos AT cinema True;
+88.84 Santos greet_smile Robert
++Santos AT cinema True;
++Robert AT spa True;
+94.24 Santos goodbye Robert
++Santos AT cinema True;
++Robert AT spa True;

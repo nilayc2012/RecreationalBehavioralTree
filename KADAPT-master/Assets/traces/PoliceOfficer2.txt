@@ -1,12 +1,12 @@
-14.18 I go_to_corner north
+17.62 I go_to_corner north
 +PoliceOfficer2 AT north True;
 +
-44.43 I go_to_corner south
+42.81 PoliceOfficer7 go_to_corner south
++PoliceOfficer7 AT south True;
++
+47.53 I go_to_corner south
 +PoliceOfficer2 AT south True;
 +
-53.95 Joseph walks_to shoeshop
-+Joseph AT shoeshop True;
+76.87 I go_to_corner north
++PoliceOfficer2 AT north True;
 +
-63.23 Logan wicked_smile Adam
-+
-+Adam AT (-12.2, 0.0, 27.2) True;
