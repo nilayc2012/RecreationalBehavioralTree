@@ -1,0 +1,3 @@
+50.56 I move_to startloc39
++bookshop1owner AT startloc39 True;
++

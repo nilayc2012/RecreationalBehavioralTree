@@ -1,0 +1,27 @@
+50.33 Joseph move_to startloc7
++Joseph AT startloc7 True;
++
+50.41 I move_to startloc6
++Mickey AT startloc6 True;
++
+51.44 PoliceOfficer4 move_to startloc71
++PoliceOfficer4 AT startloc71 True;
++
+71.39 I walks_to medicalshp2
++Mickey AT medicalshp2 True;
++
+78.96 PoliceOfficer7 go_to_corner south
++PoliceOfficer7 AT south True;
++
+82.88 Richard walks_to pawnshop
++Richard AT pawnshop True;
++
+83.87 PoliceOfficer2 go_to_corner south
++PoliceOfficer2 AT south True;
++
+88.76 I walks_to pawnshop
++Mickey AT pawnshop True;
++
+93.00 PoliceOC go_to_corner south
++PoliceOC AT south True;
++

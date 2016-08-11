@@ -1,0 +1,3 @@
+50.54 I move_to startloc45
++icecreamshopowner AT startloc45 True;
++

@@ -1,0 +1,12 @@
+50.30 Santos move_to startloc9
++Santos AT startloc9 True;
++
+50.41 Mickey move_to startloc6
++Mickey AT startloc6 True;
++
+51.45 I move_to startloc74
++PoliceOfficer7 AT startloc74 True;
++
+78.96 I go_to_corner south
++PoliceOfficer7 AT south True;
++
