@@ -1,0 +1,15 @@
+15.54 Mark move_to markstartloc
++Mark AT markstartloc True;
++
+15.59 I move_to startloc4
++Peter AT startloc4 True;
++
+16.70 PoliceOC move_to startloc77
++PoliceOC AT startloc77 True;
++
+17.93 Robert move_to startloc78
++Robert AT startloc78 True;
++
+35.30 I walks_to bookshop1
++Peter AT bookshop1 True;
++

@@ -1,0 +1,3 @@
+16.10 I move_to startloc41
++bakeryshopowner AT startloc41 True;
++

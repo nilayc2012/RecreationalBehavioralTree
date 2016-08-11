@@ -1,0 +1,6 @@
+16.73 I move_to startloc69
++PoliceOfficer2 AT startloc69 True;
++
+20.19 I go_to_corner north
++PoliceOfficer2 AT north True;
++

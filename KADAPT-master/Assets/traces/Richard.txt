@@ -1,0 +1,9 @@
+15.64 Jake move_to startloc5
++Jake AT startloc5 True;
++
+15.77 I move_to richardstartloc
++Richard AT richardstartloc True;
++
+16.73 PoliceOfficer2 move_to startloc69
++PoliceOfficer2 AT startloc69 True;
++

@@ -1,0 +1,3 @@
+16.76 I move_to startloc73
++PoliceOfficer6 AT startloc73 True;
++

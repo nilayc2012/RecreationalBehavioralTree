@@ -1,0 +1,9 @@
+15.54 I move_to markstartloc
++Mark AT markstartloc True;
++
+17.93 Robert move_to startloc78
++Robert AT startloc78 True;
++
+29.99 POfficerSP go_to_corner north
++POfficerSP AT north True;
++
