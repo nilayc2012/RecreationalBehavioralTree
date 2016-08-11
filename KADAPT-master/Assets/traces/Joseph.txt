@@ -1,0 +1,6 @@
+34.98 PoliceOfficer1 go_to_corner north
++PoliceOfficer1 AT north True;
++
+53.95 I walks_to shoeshop
++Joseph AT shoeshop True;
++

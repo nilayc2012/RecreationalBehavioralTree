@@ -1,0 +1,21 @@
+18.85 Mark walks_to electronicsshop
++Mark AT electronicsshop True;
++
+34.96 PoliceOfficer3 go_to_corner north
++PoliceOfficer3 AT north True;
++
+34.98 PoliceOfficer1 go_to_corner north
++PoliceOfficer1 AT north True;
++
+41.72 I go_to_corner north
++PoliceOfficer5 AT north True;
++
+53.95 Joseph walks_to shoeshop
++Joseph AT shoeshop True;
++
+64.26 Richard greet_smile Ricky
++Richard AT bakeryshop True;
++Ricky AT (-23.8, 0.0, 27.0) True;
+70.78 PoliceOfficer1 go_to_corner south
++PoliceOfficer1 AT south True;
++

@@ -11,8 +11,13 @@ public class MenuScript : MonoBehaviour {
     public Camera mainCamera;
     public GameObject mainpanel;
 
+    public void RunSimulation()
+    {
 
-	public void Animate (Node treeRoot) {
+        Constants.StartSimulation = true;
+    }
+
+    public void Animate (Node treeRoot) {
 
 		BehaviorAgent behaviorAgent = new BehaviorAgent (treeRoot);
 		BehaviorManager.Instance.Register (behaviorAgent);

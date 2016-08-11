@@ -1,0 +1,9 @@
+50.10 PoliceOfficer8 go_to_corner west
++PoliceOfficer8 AT west True;
++
+55.87 I go_to_corner west
++PoliceOfficer4 AT west True;
++
+62.41 Mickey walks_to barbershop
++Mickey AT barbershop True;
++

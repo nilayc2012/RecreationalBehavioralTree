@@ -1,0 +1,6 @@
+38.80 I go_to_corner south
++PoliceOfficer7 AT south True;
++
+63.88 I go_to_corner west
++PoliceOfficer7 AT west True;
++

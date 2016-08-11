@@ -1,0 +1,15 @@
+24.20 Mickey walks_to PoliceStation
++Mickey AT PoliceStation True;
++
+42.12 Mickey walks_to icecreamshop
++Mickey AT icecreamshop True;
++
+44.40 Michael walks_to burgershop
++Michael AT burgershop True;
++
+49.20 I walks_to hotdogshop
++Lance AT hotdogshop True;
++
+62.41 Mickey walks_to barbershop
++Mickey AT barbershop True;
++

@@ -1,0 +1,12 @@
+44.43 PoliceOfficer2 go_to_corner south
++PoliceOfficer2 AT south True;
++
+46.50 Jake walks_to bookshop1
++Jake AT bookshop1 True;
++
+63.88 PoliceOfficer7 go_to_corner west
++PoliceOfficer7 AT west True;
++
+69.25 I meets Michael
++
++Michael AT burgershop True;

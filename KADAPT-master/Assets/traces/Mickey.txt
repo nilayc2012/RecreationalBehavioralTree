@@ -1,0 +1,12 @@
+17.29 I walks_to clothesshop1
++Mickey AT clothesshop1 True;
++
+24.20 I walks_to PoliceStation
++Mickey AT PoliceStation True;
++
+42.12 I walks_to icecreamshop
++Mickey AT icecreamshop True;
++
+62.41 I walks_to barbershop
++Mickey AT barbershop True;
++

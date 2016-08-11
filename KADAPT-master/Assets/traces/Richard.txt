@@ -1,0 +1,18 @@
+14.18 PoliceOfficer2 go_to_corner north
++PoliceOfficer2 AT north True;
++
+57.23 Ricky meets me
++Ricky AT (-23.8, 0.0, 27.0) True;
++Richard AT bakeryshop True;
+59.53 Ricky shakehands me
++Ricky AT (-23.8, 0.0, 27.0) True;
++Richard AT bakeryshop True;
+59.58 I shakehands Ricky
++Richard AT bakeryshop True;
++Ricky AT (-23.8, 0.0, 27.0) True;
+62.00 Ricky greet me
++Ricky AT (-23.8, 0.0, 27.0) True;
++Richard AT bakeryshop True;
+64.26 I greet_smile Ricky
++Richard AT bakeryshop True;
++Ricky AT (-23.8, 0.0, 27.0) True;

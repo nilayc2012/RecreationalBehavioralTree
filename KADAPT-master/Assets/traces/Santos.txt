@@ -1,0 +1,18 @@
+49.20 Lance walks_to hotdogshop
++Lance AT hotdogshop True;
++
+50.10 PoliceOfficer8 go_to_corner west
++PoliceOfficer8 AT west True;
++
+59.53 Ricky shakehands Richard
++Ricky AT (-23.8, 0.0, 27.0) True;
++Richard AT bakeryshop True;
+59.58 Richard shakehands Ricky
++Richard AT bakeryshop True;
++Ricky AT (-23.8, 0.0, 27.0) True;
+64.26 Richard greet_smile Ricky
++Richard AT bakeryshop True;
++Ricky AT (-23.8, 0.0, 27.0) True;
+70.78 PoliceOfficer1 go_to_corner south
++PoliceOfficer1 AT south True;
++

@@ -144,9 +144,6 @@ public class Behavior : MonoBehaviour {
 
     void Start () {
         terminate = false;
-        BehaviorAgent = new BehaviorAgent(this.BuildTreeRoot());
-        BehaviorManager.Instance.Register(BehaviorAgent);
-        BehaviorAgent.StartBehavior();
     }
 	
 	// Update is called once per frame
@@ -154,7 +151,7 @@ public class Behavior : MonoBehaviour {
 	}
 
 
-   protected Node BuildTreeRoot()
+   public Node BuildTreeRoot()
     {
 
         List<Condition> initState = new List<Condition>();

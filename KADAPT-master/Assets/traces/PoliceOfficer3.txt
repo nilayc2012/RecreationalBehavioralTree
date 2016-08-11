@@ -1,0 +1,24 @@
+27.70 Chris walks_to delistore
++Chris AT delistore True;
++
+29.59 Ted walks_to hardwareshop
++Ted AT hardwareshop True;
++
+34.96 I go_to_corner north
++PoliceOfficer3 AT north True;
++
+34.98 PoliceOfficer1 go_to_corner north
++PoliceOfficer1 AT north True;
++
+42.09 Mark walks_to cinema
++Mark AT cinema True;
++
+49.75 POfficerSP go_to_corner east
++POfficerSP AT east True;
++
+50.54 PoliceOfficer6 go_to_corner east
++PoliceOfficer6 AT east True;
++
+60.34 I go_to_corner east
++PoliceOfficer3 AT east True;
++

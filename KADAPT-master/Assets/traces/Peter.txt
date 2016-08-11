@@ -1,0 +1,12 @@
+23.68 PoliceOfficer10 go_to_corner north
++PoliceOfficer10 AT north True;
++
+24.24 POfficerSP go_to_corner north
++POfficerSP AT north True;
++
+51.03 I walks_to barbershop
++Peter AT barbershop True;
++
+62.41 Mickey walks_to barbershop
++Mickey AT barbershop True;
++

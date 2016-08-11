@@ -1,0 +1,21 @@
+23.68 I0 go_to_corner north
++PoliceOfficer10 AT north True;
++
+29.59 Ted walks_to hardwareshop
++Ted AT hardwareshop True;
++
+34.96 PoliceOfficer3 go_to_corner north
++PoliceOfficer3 AT north True;
++
+34.98 I go_to_corner north
++PoliceOfficer1 AT north True;
++
+53.41 I0 go_to_corner south
++PoliceOfficer10 AT south True;
++
+62.00 Ricky greet Richard
++Ricky AT (-23.8, 0.0, 27.0) True;
++Richard AT bakeryshop True;
+70.78 I go_to_corner south
++PoliceOfficer1 AT south True;
++

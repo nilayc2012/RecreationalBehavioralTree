@@ -1,0 +1,24 @@
+45.40 I meets Logan
++Adam AT (-12.2, 0.0, 27.2) True;
++
+47.72 I shakehands Logan
++Adam AT (-12.2, 0.0, 27.2) True;
++
+47.77 Logan shakehands me
++
++Adam AT (-12.2, 0.0, 27.2) True;
+50.12 I greet Logan
++Adam AT (-12.2, 0.0, 27.2) True;
++
+52.47 Logan greet_smile me
++
++Adam AT (-12.2, 0.0, 27.2) True;
+55.14 I insult Logan
++Adam AT (-12.2, 0.0, 27.2) True;
++
+60.36 I wicked Logan
++Adam AT (-12.2, 0.0, 27.2) True;
++
+63.23 Logan wicked_smile me
++
++Adam AT (-12.2, 0.0, 27.2) True;

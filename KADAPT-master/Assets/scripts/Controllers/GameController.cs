@@ -12,6 +12,7 @@ public class GameController : MonoBehaviour {
 	private string displayMessage;
     public Camera camerad;
 
+    public GameObject mainPanel;
 	public GameObject gameMenu;
 	public GameObject mergePane;
 
@@ -21,23 +22,40 @@ public class GameController : MonoBehaviour {
 		HelperFunctions.GetAgentsWithTrace ();
        
         HelperFunctions.CreateSmartObjectToGameObjectMap ();
-        Debug.Log("done");
 
         behaviorAgent = null;
 		Time.timeScale = 0f;
-		cameraController = camerad.GetComponent<CameraController> ();
 	}
-	
-	// Update is called once per frame
-	void Update () {
 
+    public Node BuildTree()
+    {
 
-		if (Constants.MergeMemories) {
+        //Get your PBT here
+        Node PBT = this.gameObject.GetComponent<Behavior>().BuildTreeRoot();
+        return PBT;
+    }
+    // Update is called once per frame
+    void Update () {
 
-			cameraController.EnableCameraMoveControls ();
+        if (Constants.StartSimulation)
+        {
+
+            Time.timeScale = 1f;
+            gameMenu.SetActive(false);
+            mainPanel.SetActive(true);
+            behaviorAgent = new BehaviorAgent(this.BuildTree());
+            BehaviorManager.Instance.Register(behaviorAgent);
+            behaviorAgent.StartBehavior();
+            Constants.StartSimulation = false;
+        }
+
+        if (Constants.MergeMemories) {
+            cameraController = camerad.GetComponent<CameraController>();
+
+            cameraController.EnableCameraMoveControls ();
 			holder = cameraController.cameraHolder;
 			Time.timeScale = 1f;
-			gameMenu.SetActive (false);
+			mainPanel.SetActive (false);
 
 			// Camera movement
 			float moveHorizontal = Input.GetAxis ("Horizontal");

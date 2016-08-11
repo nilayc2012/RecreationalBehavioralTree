@@ -1,0 +1,6 @@
+44.40 I walks_to burgershop
++Michael AT burgershop True;
++
+69.25 Denis meets me
++
++Michael AT burgershop True;

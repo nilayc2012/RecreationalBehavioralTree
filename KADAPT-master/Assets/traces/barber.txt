@@ -1,0 +1,6 @@
+51.03 Peter walks_to Ishop
++Peter AT barbershop True;
++
+62.41 Mickey walks_to Ishop
++Mickey AT barbershop True;
++

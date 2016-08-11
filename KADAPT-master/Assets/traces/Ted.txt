@@ -1,0 +1,24 @@
+24.24 POfficerSP go_to_corner north
++POfficerSP AT north True;
++
+29.59 I walks_to hardwareshop
++Ted AT hardwareshop True;
++
+53.41 PoliceOfficer10 go_to_corner south
++PoliceOfficer10 AT south True;
++
+57.23 Ricky meets Richard
++Ricky AT (-23.8, 0.0, 27.0) True;
++Richard AT bakeryshop True;
+59.53 Ricky shakehands Richard
++Ricky AT (-23.8, 0.0, 27.0) True;
++Richard AT bakeryshop True;
+59.58 Richard shakehands Ricky
++Richard AT bakeryshop True;
++Ricky AT (-23.8, 0.0, 27.0) True;
+62.00 Ricky greet Richard
++Ricky AT (-23.8, 0.0, 27.0) True;
++Richard AT bakeryshop True;
+64.26 Richard greet_smile Ricky
++Richard AT bakeryshop True;
++Ricky AT (-23.8, 0.0, 27.0) True;

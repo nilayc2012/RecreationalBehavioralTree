@@ -1,0 +1,9 @@
+49.75 POfficerSP go_to_corner east
++POfficerSP AT east True;
++
+50.54 I go_to_corner east
++PoliceOfficer6 AT east True;
++
+62.41 Mickey walks_to barbershop
++Mickey AT barbershop True;
++

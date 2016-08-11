@@ -1,0 +1,12 @@
+18.85 I walks_to electronicsshop
++Mark AT electronicsshop True;
++
+34.96 PoliceOfficer3 go_to_corner north
++PoliceOfficer3 AT north True;
++
+34.98 PoliceOfficer1 go_to_corner north
++PoliceOfficer1 AT north True;
++
+42.09 I walks_to cinema
++Mark AT cinema True;
++

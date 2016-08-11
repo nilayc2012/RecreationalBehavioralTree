@@ -1,0 +1,24 @@
+42.12 Mickey walks_to icecreamshop
++Mickey AT icecreamshop True;
++
+44.40 Michael walks_to burgershop
++Michael AT burgershop True;
++
+57.23 I meets Richard
++Ricky AT (-23.8, 0.0, 27.0) True;
++Richard AT bakeryshop True;
+59.53 I shakehands Richard
++Ricky AT (-23.8, 0.0, 27.0) True;
++Richard AT bakeryshop True;
+59.58 Richard shakehands me
++Richard AT bakeryshop True;
++Ricky AT (-23.8, 0.0, 27.0) True;
+62.00 I greet Richard
++Ricky AT (-23.8, 0.0, 27.0) True;
++Richard AT bakeryshop True;
+64.26 Richard greet_smile me
++Richard AT bakeryshop True;
++Ricky AT (-23.8, 0.0, 27.0) True;
+70.78 PoliceOfficer1 go_to_corner south
++PoliceOfficer1 AT south True;
++

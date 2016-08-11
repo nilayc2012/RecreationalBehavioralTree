@@ -1,0 +1,15 @@
+22.42 I go_to_corner east
++PoliceOfficer8 AT east True;
++
+42.12 Mickey walks_to icecreamshop
++Mickey AT icecreamshop True;
++
+49.20 Lance walks_to hotdogshop
++Lance AT hotdogshop True;
++
+50.10 I go_to_corner west
++PoliceOfficer8 AT west True;
++
+62.41 Mickey walks_to barbershop
++Mickey AT barbershop True;
++
