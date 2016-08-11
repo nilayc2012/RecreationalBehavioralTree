@@ -1,3 +1,0 @@
-51.04 I move_to startloc57
-+medicalshp2owner1 AT startloc57 True;
-+

@@ -1,3 +1,0 @@
-50.73 I move_to startloc35
-+HAshopowner AT startloc35 True;
-+

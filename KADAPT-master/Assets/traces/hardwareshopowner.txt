@@ -1,3 +1,0 @@
-50.67 I move_to startloc23
-+hardwareshopowner AT startloc23 True;
-+

@@ -1,3 +1,0 @@
-51.20 I move_to startloc50
-+popcornowner3 AT startloc50 True;
-+

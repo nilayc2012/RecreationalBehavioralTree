@@ -1,3 +1,0 @@
-51.02 I move_to startloc48
-+cinemaowner1 AT startloc48 True;
-+
