@@ -1,9 +1,0 @@
-42.81 I go_to_corner south
-+PoliceOfficer7 AT south True;
-+
-68.12 I go_to_corner west
-+PoliceOfficer7 AT west True;
-+
-74.87 Adam meets Richard
-+Adam AT (-23.8, 0.0, 27.0) True;
-+Richard AT medicalshp2 True;

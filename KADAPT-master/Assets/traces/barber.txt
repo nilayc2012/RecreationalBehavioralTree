@@ -1,6 +1,0 @@
-45.45 Logan walks_to Ishop
-+Logan AT barbershop True;
-+
-93.38 Lance walks_to Ishop
-+Lance AT barbershop True;
-+

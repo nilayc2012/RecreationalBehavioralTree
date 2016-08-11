@@ -1,3 +1,0 @@
-82.96 I walks_to petshop
-+Jake AT petshop True;
-+
