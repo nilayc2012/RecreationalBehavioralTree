@@ -1,0 +1,24 @@
+15.43 I move_to startloc3
++Lance AT startloc3 True;
++
+26.40 Richard walks_to kitchenappliancesshop
++Richard AT kitchenappliancesshop True;
++
+28.99 POfficerSP go_to_corner north
++POfficerSP AT north True;
++
+36.26 I walks_to kitchenappliancesshop
++Lance AT kitchenappliancesshop True;
++
+46.71 Chris meets me
++Chris AT (9.3, 0.0, 35.9) True;
++Lance AT kitchenappliancesshop True;
+48.98 Chris shakehands me
++Chris AT (9.3, 0.0, 35.9) True;
++Lance AT kitchenappliancesshop True;
+49.02 I shakehands Chris
++Lance AT kitchenappliancesshop True;
++Chris AT (9.3, 0.0, 35.9) True;
+51.57 Chris greet me
++Chris AT (9.3, 0.0, 35.9) True;
++Lance AT kitchenappliancesshop True;

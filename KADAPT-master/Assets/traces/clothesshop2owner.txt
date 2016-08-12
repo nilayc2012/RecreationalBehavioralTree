@@ -1,0 +1,3 @@
+17.53 I move_to startloc29
++clothesshop2owner AT startloc29 True;
++

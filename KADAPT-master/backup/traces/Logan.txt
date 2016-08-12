@@ -1,0 +1,12 @@
+15.44 Jake move_to startloc5
++Jake AT startloc5 True;
++
+15.52 I move_to startloc2
++Logan AT startloc2 True;
++
+43.53 PoliceOfficer7 go_to_corner south
++PoliceOfficer7 AT south True;
++
+52.91 I walks_to sportsshop
++Logan AT sportsshop True;
++

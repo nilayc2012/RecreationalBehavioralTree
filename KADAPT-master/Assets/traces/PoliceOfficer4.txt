@@ -1,0 +1,21 @@
+17.09 Joseph move_to startloc7
++Joseph AT startloc7 True;
++
+18.36 PoliceOfficer8 move_to startloc75
++PoliceOfficer8 AT startloc75 True;
++
+18.41 I move_to startloc71
++PoliceOfficer4 AT startloc71 True;
++
+36.79 I go_to_corner east
++PoliceOfficer4 AT east True;
++
+42.29 Ted walks_to barbershop
++Ted AT barbershop True;
++
+58.83 PoliceOfficer8 go_to_corner west
++PoliceOfficer8 AT west True;
++
+64.34 I go_to_corner west
++PoliceOfficer4 AT west True;
++

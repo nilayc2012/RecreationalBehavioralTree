@@ -1,0 +1,18 @@
+17.14 I move_to startloc8
++Ted AT startloc8 True;
++
+40.27 Adam walks_to clothesshop1
++Adam AT clothesshop1 True;
++
+42.29 I walks_to barbershop
++Ted AT barbershop True;
++
+51.85 I walks_to groceryshop
++Ted AT groceryshop True;
++
+59.53 POfficerSP go_to_corner east
++POfficerSP AT east True;
++
+60.78 POfficerSP move_to startloc76
++POfficerSP AT startloc76 True;
++

@@ -1,0 +1,18 @@
+15.39 Peter move_to startloc4
++Peter AT startloc4 True;
++
+16.43 I move_to startloc68
++PoliceOfficer1 AT startloc68 True;
++
+28.58 PoliceOC go_to_corner north
++PoliceOC AT north True;
++
+28.99 POfficerSP go_to_corner north
++POfficerSP AT north True;
++
+39.91 PoliceOfficer3 go_to_corner north
++PoliceOfficer3 AT north True;
++
+40.33 I go_to_corner north
++PoliceOfficer1 AT north True;
++

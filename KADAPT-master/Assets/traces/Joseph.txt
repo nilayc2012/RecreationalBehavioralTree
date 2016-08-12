@@ -1,0 +1,12 @@
+17.09 I move_to startloc7
++Joseph AT startloc7 True;
++
+18.23 PoliceOfficer3 move_to startloc70
++PoliceOfficer3 AT startloc70 True;
++
+18.36 PoliceOfficer8 move_to startloc75
++PoliceOfficer8 AT startloc75 True;
++
+47.59 PoliceOfficer7 go_to_corner south
++PoliceOfficer7 AT south True;
++

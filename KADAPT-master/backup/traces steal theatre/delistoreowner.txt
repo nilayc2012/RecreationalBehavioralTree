@@ -1,0 +1,3 @@
+50.51 I move_to startloc32
++delistoreowner AT startloc32 True;
++

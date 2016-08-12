@@ -1,0 +1,42 @@
+15.41 I move_to startloc7
++Joseph AT startloc7 True;
++
+16.39 PoliceOfficer3 move_to startloc70
++PoliceOfficer3 AT startloc70 True;
++
+16.50 PoliceOfficer8 move_to startloc75
++PoliceOfficer8 AT startloc75 True;
++
+29.77 I meets Mickey
++Joseph AT (28.8, 0.0, -12.6) True;
++Mickey AT clothesshop1 True;
+32.21 I shakehands Mickey
++Joseph AT (28.8, 0.0, -12.6) True;
++Mickey AT clothesshop1 True;
+32.26 Mickey shakehands me
++Mickey AT clothesshop1 True;
++Joseph AT (28.8, 0.0, -12.6) True;
+34.67 I greet Mickey
++Joseph AT (28.8, 0.0, -12.6) True;
++Mickey AT clothesshop1 True;
+36.80 Mickey greet_smile me
++Mickey AT clothesshop1 True;
++Joseph AT (28.8, 0.0, -12.6) True;
+39.43 I joke Mickey
++Joseph AT (28.8, 0.0, -12.6) True;
++Mickey AT clothesshop1 True;
+42.15 Mickey laugh me
++Mickey AT clothesshop1 True;
++Joseph AT (28.8, 0.0, -12.6) True;
+44.48 I amazing Mickey
++Joseph AT (28.8, 0.0, -12.6) True;
++Mickey AT clothesshop1 True;
+46.80 Mickey amazed me
++Mickey AT clothesshop1 True;
++Joseph AT (28.8, 0.0, -12.6) True;
+49.62 I wicked Mickey
++Joseph AT (28.8, 0.0, -12.6) True;
++Mickey AT clothesshop1 True;
+52.41 Mickey wicked_smile me
++Mickey AT clothesshop1 True;
++Joseph AT (28.8, 0.0, -12.6) True;

@@ -1,0 +1,45 @@
+15.41 Joseph move_to startloc7
++Joseph AT startloc7 True;
++
+15.49 I move_to startloc6
++Mickey AT startloc6 True;
++
+16.53 PoliceOfficer4 move_to startloc71
++PoliceOfficer4 AT startloc71 True;
++
+21.79 I walks_to clothesshop1
++Mickey AT clothesshop1 True;
++
+29.77 Joseph meets me
++Joseph AT (28.8, 0.0, -12.6) True;
++Mickey AT clothesshop1 True;
+32.21 Joseph shakehands me
++Joseph AT (28.8, 0.0, -12.6) True;
++Mickey AT clothesshop1 True;
+32.26 I shakehands Joseph
++Mickey AT clothesshop1 True;
++Joseph AT (28.8, 0.0, -12.6) True;
+34.67 Joseph greet me
++Joseph AT (28.8, 0.0, -12.6) True;
++Mickey AT clothesshop1 True;
+36.80 I greet_smile Joseph
++Mickey AT clothesshop1 True;
++Joseph AT (28.8, 0.0, -12.6) True;
+39.43 Joseph joke me
++Joseph AT (28.8, 0.0, -12.6) True;
++Mickey AT clothesshop1 True;
+42.15 I laugh Joseph
++Mickey AT clothesshop1 True;
++Joseph AT (28.8, 0.0, -12.6) True;
+44.48 Joseph amazing me
++Joseph AT (28.8, 0.0, -12.6) True;
++Mickey AT clothesshop1 True;
+46.80 I amazed Joseph
++Mickey AT clothesshop1 True;
++Joseph AT (28.8, 0.0, -12.6) True;
+49.62 Joseph wicked me
++Joseph AT (28.8, 0.0, -12.6) True;
++Mickey AT clothesshop1 True;
+52.41 I wicked_smile Joseph
++Mickey AT clothesshop1 True;
++Joseph AT (28.8, 0.0, -12.6) True;

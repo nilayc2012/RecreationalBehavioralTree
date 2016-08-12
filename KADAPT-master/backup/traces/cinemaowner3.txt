@@ -1,0 +1,3 @@
+16.30 I move_to startloc47
++cinemaowner3 AT startloc47 True;
++
