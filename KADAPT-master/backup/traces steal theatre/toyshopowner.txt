@@ -1,3 +1,0 @@
-50.78 I move_to startloc28
-+toyshopowner AT startloc28 True;
-+

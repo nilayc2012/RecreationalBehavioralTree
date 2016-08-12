@@ -1,3 +1,0 @@
-50.58 I move_to startloc25
-+clothesshop1owner AT startloc25 True;
-+

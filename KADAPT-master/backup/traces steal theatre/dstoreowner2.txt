@@ -1,3 +1,0 @@
-51.07 I move_to startloc55
-+dstoreowner2 AT startloc55 True;
-+

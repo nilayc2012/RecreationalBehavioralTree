@@ -1,3 +1,0 @@
-17.77 I move_to startloc20
-+spaowner AT startloc20 True;
-+

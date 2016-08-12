@@ -1,6 +1,0 @@
-15.46 I move_to startloc8
-+Ted AT startloc8 True;
-+
-24.07 Chris walks_to medicalshop1
-+Chris AT medicalshop1 True;
-+

@@ -1,3 +1,0 @@
-17.58 I move_to startloc31
-+groceryshopowner AT startloc31 True;
-+

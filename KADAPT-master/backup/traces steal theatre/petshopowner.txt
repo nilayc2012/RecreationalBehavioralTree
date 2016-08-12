@@ -1,3 +1,0 @@
-50.81 I move_to startloc40
-+petshopowner AT startloc40 True;
-+

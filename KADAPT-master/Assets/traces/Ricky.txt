@@ -1,9 +1,0 @@
-17.20 I move_to startloc11
-+Ricky AT startloc11 True;
-+
-52.85 PoliceOfficer2 move_to startloc69
-+PoliceOfficer2 AT startloc69 True;
-+
-58.17 I walks_to juiceshop
-+Ricky AT juiceshop True;
-+

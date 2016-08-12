@@ -1,3 +1,0 @@
-18.10 I move_to startloc52
-+bankowner2 AT startloc52 True;
-+

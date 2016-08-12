@@ -1,3 +1,0 @@
-51.23 I move_to startloc59
-+postofficeowner3 AT startloc59 True;
-+

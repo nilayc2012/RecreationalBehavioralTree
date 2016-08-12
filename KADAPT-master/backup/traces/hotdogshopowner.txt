@@ -1,3 +1,0 @@
-15.71 I move_to startloc44
-+hotdogshopowner AT startloc44 True;
-+

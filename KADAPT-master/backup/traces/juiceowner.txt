@@ -1,3 +1,0 @@
-15.84 I move_to startloc22
-+juiceowner AT startloc22 True;
-+

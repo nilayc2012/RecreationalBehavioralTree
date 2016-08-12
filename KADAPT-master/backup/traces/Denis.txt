@@ -1,9 +1,0 @@
-15.54 I move_to startloc10
-+Denis AT startloc10 True;
-+
-16.43 PoliceOfficer1 move_to startloc68
-+PoliceOfficer1 AT startloc68 True;
-+
-53.40 Santos walks_to pawnshop
-+Santos AT pawnshop True;
-+

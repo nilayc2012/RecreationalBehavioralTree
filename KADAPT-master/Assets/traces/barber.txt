@@ -1,9 +1,0 @@
-17.55 I move_to startloc21
-+barber AT startloc21 True;
-+
-42.29 Ted walks_to Ishop
-+Ted AT barbershop True;
-+
-49.36 Logan walks_to Ishop
-+Logan AT barbershop True;
-+

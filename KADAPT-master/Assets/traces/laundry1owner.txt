@@ -1,3 +1,0 @@
-17.72 I move_to startloc37
-+laundry1owner AT startloc37 True;
-+

@@ -1,3 +1,0 @@
-17.47 I move_to startloc27
-+pawnshopowner AT startloc27 True;
-+

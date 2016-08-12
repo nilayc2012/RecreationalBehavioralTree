@@ -1,3 +1,0 @@
-15.95 I move_to startloc36
-+medicalshop1owner AT startloc36 True;
-+

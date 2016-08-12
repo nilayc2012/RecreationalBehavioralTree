@@ -1,3 +1,0 @@
-15.79 I move_to startloc21
-+barber AT startloc21 True;
-+

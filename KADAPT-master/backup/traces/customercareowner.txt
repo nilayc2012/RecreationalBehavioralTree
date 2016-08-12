@@ -1,3 +1,0 @@
-15.97 I move_to startloc99
-+customercareowner AT startloc99 True;
-+

@@ -1,6 +1,0 @@
-50.48 I move_to startloc12
-+Adam AT startloc12 True;
-+
-87.65 Richard walks_to sportsshop
-+Richard AT sportsshop True;
-+

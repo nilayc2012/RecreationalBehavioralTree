@@ -1,3 +1,0 @@
-18.04 I move_to startloc49
-+popcornowner2 AT startloc49 True;
-+

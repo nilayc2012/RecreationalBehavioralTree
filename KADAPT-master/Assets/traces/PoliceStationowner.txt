@@ -1,6 +1,0 @@
-17.87 I1 move_to startloc64
-+PoliceStationowner1 AT startloc64 True;
-+
-17.98 I move_to startloc65
-+PoliceStationowner AT startloc65 True;
-+

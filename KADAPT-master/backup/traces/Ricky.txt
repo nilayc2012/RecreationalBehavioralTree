@@ -1,3 +1,0 @@
-15.50 I move_to startloc11
-+Ricky AT startloc11 True;
-+
