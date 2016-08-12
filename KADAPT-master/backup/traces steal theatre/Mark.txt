@@ -1,0 +1,33 @@
+50.27 I move_to markstartloc
++Mark AT markstartloc True;
++
+52.62 Robert move_to startloc78
++Robert AT startloc78 True;
++
+63.09 Michael steal_idol PricelessIdol
++Michael AT PricelessIdol True;
++
+68.51 I meets Logan
++Mark AT (-12.2, 0.0, 27.2) True;
++Logan AT startloc2 True;
+70.86 I shakehands Logan
++Mark AT (-12.2, 0.0, 27.2) True;
++Logan AT startloc2 True;
+70.91 Logan shakehands me
++Logan AT startloc2 True;
++Mark AT (-12.2, 0.0, 27.2) True;
+73.31 I greet Logan
++Mark AT (-12.2, 0.0, 27.2) True;
++Logan AT startloc2 True;
+78.49 I wicked Logan
++Mark AT (-12.2, 0.0, 27.2) True;
++Logan AT startloc2 True;
+86.63 Logan laugh me
++Logan AT startloc2 True;
++Mark AT (-12.2, 0.0, 27.2) True;
+89.49 I tell_news Logan
++Mark AT (-12.2, 0.0, 27.2) True;
++Logan AT startloc2 True;
+91.96 Logan congratulate me
++Logan AT startloc2 True;
++Mark AT (-12.2, 0.0, 27.2) True;

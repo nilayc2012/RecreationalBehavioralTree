@@ -1,0 +1,12 @@
+17.11 Lance move_to startloc3
++Lance AT startloc3 True;
++
+17.14 Ted move_to startloc8
++Ted AT startloc8 True;
++
+17.16 I move_to startloc1
++Chris AT startloc1 True;
++
+49.32 Mark walks_to laundry1
++Mark AT laundry1 True;
++

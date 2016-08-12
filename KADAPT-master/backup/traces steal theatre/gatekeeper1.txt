@@ -1,0 +1,15 @@
+51.26 I move_to startloc67
++gatekeeper1 AT startloc67 True;
++
+51.28 gatekeeper move_to startloc66
++gatekeeper AT startloc66 True;
++
+63.64 PoliceOC go_to_corner north
++PoliceOC AT north True;
++
+82.37 PoliceOfficer5 go_to_corner north
++PoliceOfficer5 AT north True;
++
+85.03 PoliceOfficer2 move_to startloc69
++PoliceOfficer2 AT south True;
++

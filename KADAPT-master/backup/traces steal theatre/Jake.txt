@@ -1,0 +1,9 @@
+50.36 I move_to startloc5
++Jake AT startloc5 True;
++
+87.22 I walks_to clothesshop3
++Jake AT clothesshop3 True;
++
+93.95 Joseph good Michael
++Joseph AT (22.9, 0.0, 24.8) True;
++Michael AT spa True;

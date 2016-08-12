@@ -1,0 +1,30 @@
+15.43 Lance move_to startloc3
++Lance AT startloc3 True;
++
+15.46 Ted move_to startloc8
++Ted AT startloc8 True;
++
+15.47 I move_to startloc1
++Chris AT startloc1 True;
++
+24.07 I walks_to medicalshop1
++Chris AT medicalshop1 True;
++
+46.71 I meets Lance
++Chris AT (9.3, 0.0, 35.9) True;
++Lance AT kitchenappliancesshop True;
+47.28 PoliceOfficer5 go_to_corner north
++PoliceOfficer5 AT north True;
++
+48.98 I shakehands Lance
++Chris AT (9.3, 0.0, 35.9) True;
++Lance AT kitchenappliancesshop True;
+49.02 Lance shakehands me
++Lance AT kitchenappliancesshop True;
++Chris AT (9.3, 0.0, 35.9) True;
+50.46 PoliceOfficer2 move_to startloc69
++PoliceOfficer2 AT startloc69 True;
++
+51.57 I greet Lance
++Chris AT (9.3, 0.0, 35.9) True;
++Lance AT kitchenappliancesshop True;

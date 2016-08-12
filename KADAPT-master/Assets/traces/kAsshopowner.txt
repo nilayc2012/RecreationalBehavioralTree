@@ -1,0 +1,3 @@
+17.32 I move_to startloc34
++kAsshopowner AT startloc34 True;
++

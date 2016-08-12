@@ -1,0 +1,15 @@
+51.42 I move_to startloc73
++PoliceOfficer6 AT startloc73 True;
++
+74.80 Michael walks_to spa
++Michael AT spa True;
++
+78.92 Joseph meets Michael
++Joseph AT (22.9, 0.0, 24.8) True;
++Michael AT spa True;
+90.34 I go_to_corner east
++PoliceOfficer6 AT east True;
++
+93.95 Joseph good Michael
++Joseph AT (22.9, 0.0, 24.8) True;
++Michael AT spa True;

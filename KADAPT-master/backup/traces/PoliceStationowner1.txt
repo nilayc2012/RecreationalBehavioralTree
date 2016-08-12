@@ -1,0 +1,3 @@
+16.07 I move_to startloc64
++PoliceStationowner1 AT startloc64 True;
++

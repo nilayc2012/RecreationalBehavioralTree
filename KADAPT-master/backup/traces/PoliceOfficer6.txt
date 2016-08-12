@@ -1,0 +1,15 @@
+16.52 I move_to startloc73
++PoliceOfficer6 AT startloc73 True;
++
+36.80 Mickey greet_smile Joseph
++Mickey AT clothesshop1 True;
++Joseph AT (28.8, 0.0, -12.6) True;
+39.43 Joseph joke Mickey
++Joseph AT (28.8, 0.0, -12.6) True;
++Mickey AT clothesshop1 True;
+48.91 Jake walks_to postoffice
++Jake AT postoffice True;
++
+55.14 POfficerSP go_to_corner east
++POfficerSP AT east True;
++

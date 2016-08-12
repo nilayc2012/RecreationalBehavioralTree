@@ -1,0 +1,9 @@
+17.01 I move_to markstartloc
++Mark AT markstartloc True;
++
+19.87 Robert move_to startloc78
++Robert AT startloc78 True;
++
+49.32 I walks_to laundry1
++Mark AT laundry1 True;
++

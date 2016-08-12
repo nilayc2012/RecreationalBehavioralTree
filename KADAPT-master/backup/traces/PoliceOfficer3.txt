@@ -1,0 +1,24 @@
+16.39 I move_to startloc70
++PoliceOfficer3 AT startloc70 True;
++
+24.07 Chris walks_to medicalshop1
++Chris AT medicalshop1 True;
++
+28.58 PoliceOC go_to_corner north
++PoliceOC AT north True;
++
+36.22 Mark walks_to delistore
++Mark AT delistore True;
++
+39.91 I go_to_corner north
++PoliceOfficer3 AT north True;
++
+40.33 PoliceOfficer1 go_to_corner north
++PoliceOfficer1 AT north True;
++
+46.71 Chris meets Lance
++Chris AT (9.3, 0.0, 35.9) True;
++Lance AT kitchenappliancesshop True;
+55.14 POfficerSP go_to_corner east
++POfficerSP AT east True;
++

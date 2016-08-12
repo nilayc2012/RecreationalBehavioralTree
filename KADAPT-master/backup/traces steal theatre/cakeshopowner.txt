@@ -1,0 +1,3 @@
+50.62 I move_to startloc24
++cakeshopowner AT startloc24 True;
++

@@ -1,0 +1,3 @@
+17.79 I move_to startloc43
++burgershopowner AT startloc43 True;
++

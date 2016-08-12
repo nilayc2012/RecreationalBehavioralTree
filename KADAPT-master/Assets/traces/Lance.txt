@@ -1,0 +1,6 @@
+17.11 I move_to startloc3
++Lance AT startloc3 True;
++
+34.93 I steal_idol IdolContainer
++Lance AT IdolContainer True;
++

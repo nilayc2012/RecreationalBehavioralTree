@@ -1,0 +1,18 @@
+50.36 Jake move_to startloc5
++Jake AT startloc5 True;
++
+50.50 I move_to richardstartloc
++Richard AT richardstartloc True;
++
+51.38 PoliceOfficer2 move_to startloc69
++PoliceOfficer2 AT startloc69 True;
++
+54.52 PoliceOfficer2 go_to_corner north
++PoliceOfficer2 AT north True;
++
+82.88 I walks_to pawnshop
++Richard AT pawnshop True;
++
+87.65 I walks_to sportsshop
++Richard AT sportsshop True;
++

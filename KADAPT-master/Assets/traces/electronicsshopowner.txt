@@ -1,0 +1,3 @@
+17.41 I move_to startloc26
++electronicsshopowner AT startloc26 True;
++

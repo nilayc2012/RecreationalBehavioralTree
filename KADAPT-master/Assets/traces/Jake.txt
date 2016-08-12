@@ -1,0 +1,6 @@
+17.13 I move_to startloc5
++Jake AT startloc5 True;
++
+37.72 Michael walks_to kitchenappliancesshop
++Michael AT kitchenappliancesshop True;
++

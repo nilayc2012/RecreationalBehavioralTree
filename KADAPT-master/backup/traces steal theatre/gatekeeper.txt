@@ -1,0 +1,6 @@
+51.26 I1 move_to startloc67
++gatekeeper1 AT startloc67 True;
++
+51.28 I move_to startloc66
++gatekeeper AT startloc66 True;
++

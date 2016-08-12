@@ -1,0 +1,3 @@
+18.00 I move_to startloc58
++postofficeowner2 AT startloc58 True;
++
